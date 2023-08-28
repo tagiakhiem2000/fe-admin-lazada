@@ -1,0 +1,25 @@
+#navBar{
+    background-color: white !important;
+    margin-left: 250px;
+    #logOut{
+        position: absolute;
+        right: 1.5rem;
+        color: blue;
+    }
+    #iconMaximize{
+        position: absolute;
+        right: 6.5rem;
+    }
+    #iconBell{
+        position: absolute;
+        right: 12.5rem;
+    }
+    #iconMaximize{
+        position: absolute;
+        right: 8.5rem;
+    }
+    #iconMessage{
+        position: absolute;
+        right: 16.5rem;
+    }
+}
